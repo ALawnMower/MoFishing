@@ -7,4 +7,8 @@
 ##### Possible Logo For Game: 
 ![alt text](https://github.com/Alan78268/MoFishing/blob/master/logo.png "Possible Logo For Game")
 
+##### First Class Diagram For Game: 
+![alt text](https://github.com/Alan78268/MoFishing/blob/master/classDiagram.png "First Class Diagram For Game")
+
+
 ## Documentation
